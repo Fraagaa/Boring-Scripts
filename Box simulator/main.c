@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define HITS 600
+#define HITS 3500
 
 typedef char* weaponName;
 typedef int timesGot;
